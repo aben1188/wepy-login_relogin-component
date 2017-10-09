@@ -1,0 +1,3 @@
+import interfaces from '../interfaces'
+
+await interfaces.login()
